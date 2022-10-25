@@ -28,6 +28,7 @@
 		<module>omod</module>
 	</modules>
 
+
     <properties>
         <openmrs.platform.version>1.11.2</openmrs.platform.version>
     </properties>
